@@ -1,6 +1,7 @@
 # WarfareX - S.T.A.L.K.E.R. Anomaly Modpack
 
 **Версия сборки:** 22.05.2025
+
 **Версия Anomaly:** 1.5.3 (Modded Exes от 19.05.2025)
 
 ## Описание
