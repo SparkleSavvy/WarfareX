@@ -1,4 +1,4 @@
-# WarfareX - S.T.A.L.K.E.R. Anomaly Modpack
+# <img width="1024" height="168" alt="image" src="https://github.com/user-attachments/assets/202fdbb6-6b42-44ac-8579-3eee44a05b41" />
 
 **Версия сборки:** 22.05.2025
 
